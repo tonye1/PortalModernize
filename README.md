@@ -3,10 +3,10 @@
 
 ![Overview Picture](./diagrams/PortalOverview.png "Solution overview")
  - [How to Video](#video)
- - [Code details](#code_details)
+ - [Code details](#code)
 
 # Video
 - [Bikram Naha shows how to configure](https:www.youtube.com/whatever)
 
-# Code Details
+# Code
 - More detail
