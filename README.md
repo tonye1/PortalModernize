@@ -12,7 +12,7 @@ In this blog, we provisioned a Cloud Weather Company Data service data.  See the
 
 # Video
 In this video, Bikram Naha will show you how to configure the portal
-- [Bikram Naha shows how to configure the Portal](./Video/'Bikram-Naha-Cloud Portal Script Portlet Demo.mp4')
+- [Bikram Naha shows how to configure the Portal](./Video/Bikram-Naha-Demo-Cloud-Portal-Script-Portlet.mp4)
 
 # Code
 - To be provided
