@@ -5,7 +5,7 @@
  - [How to Video](#video)
  - [Code details](#code)
  This is the github repo associated with the blog
- "Extending your Portal to the IBM Cloud"
+ [Energize Your Application with New Capabilities Using IBM Cloud](https://www.ibm.com/blogs/bluemix/2018/11/energize-your-application-with-new-capabilities-using-ibm-cloud/)
         by Tony Efremenko and Bikram Naha
 
 In this blog, we provisioned a Cloud Weather Company Data service data.  See the IBM console for the Cloud service we used [Weather Company Data](https://console.bluemix.net/catalog/services/weather-company-data)
