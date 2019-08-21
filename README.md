@@ -17,7 +17,7 @@ In this video, Bikram Naha will show you how to configure the portal
 # Code
 - [Code details](./Code)
 
-###Licensed Materials - Property of IBM
+### Licensed Materials - Property of IBM
 6949-04J and other materials
 Copyright IBM Corp. 2018 All Rights Reserved.
 US Government Users Restricted Rights - Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
